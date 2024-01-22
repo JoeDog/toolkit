@@ -4,7 +4,6 @@ toolkit helper modules
 - rpc    - executes remote procedures 
 - util   - various helpers
 
-
 from toolkit.config import Column, Columns, Slurp, INI, Block
 
 # Reads a column formatted config file which may contain hash (#) comments
